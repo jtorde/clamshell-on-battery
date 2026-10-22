@@ -1,4 +1,4 @@
-# Clamshell Mode on Battery for Apple Silicon MacBook
+# Clamshell Mode on Battery for Apple Silicon MacBooks
 
 Use two external monitors with a MacBook Air (M3) **on battery** — no power
 cable required.
