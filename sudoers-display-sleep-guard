@@ -1,0 +1,4 @@
+# display-sleep-guard: allows exactly these two pmset commands to run
+# without a password — nothing else. %admin = any administrator user.
+# See README.md for setup.
+%admin ALL=(root) NOPASSWD: /usr/bin/pmset -b disablesleep 1, /usr/bin/pmset -b disablesleep 0
